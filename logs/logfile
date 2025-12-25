@@ -1,0 +1,77 @@
+[INFO] 2024-11-26 09:00:37,421 utils.LoggerGeneretor info - Hovered On All Categories
+[INFO] 2024-11-26 09:00:41,515 utils.LoggerGeneretor info - Clicked On Computer Products
+[INFO] 2024-11-26 09:00:42,289 utils.LoggerGeneretor info - Hovered On Computer Section
+[INFO] 2024-11-26 09:00:45,726 utils.LoggerGeneretor info - Clicked Tablet PC
+[INFO] 2024-11-26 09:00:46,017 utils.LoggerGeneretor info - Tablet PC Page Found
+[INFO] 2024-11-26 09:00:57,647 utils.LoggerGeneretor info - Hovered On All Categories
+[INFO] 2024-11-26 09:01:01,162 utils.LoggerGeneretor info - Clicked On Electrical & Electronics
+[INFO] 2024-11-26 09:01:01,657 utils.LoggerGeneretor info - Hovered On Motors
+[INFO] 2024-11-26 09:01:06,359 utils.LoggerGeneretor info - Clicked DC Motor
+[INFO] 2024-11-26 09:01:09,591 utils.LoggerGeneretor info - Clicked DC Gear Motor
+[INFO] 2024-11-26 09:01:09,632 utils.LoggerGeneretor info - DC Gear Motor Page Found
+[INFO] 2024-11-26 09:02:12,594 utils.LoggerGeneretor info - Hovered On All Categories
+[INFO] 2024-11-26 09:02:16,501 utils.LoggerGeneretor info - Clicked On Computer Products
+[INFO] 2024-11-26 09:02:16,905 utils.LoggerGeneretor info - Hovered On Computer Section
+[INFO] 2024-11-26 09:02:19,765 utils.LoggerGeneretor info - Clicked Tablet PC
+[INFO] 2024-11-26 09:02:19,816 utils.LoggerGeneretor info - Tablet PC Page Found
+[INFO] 2024-11-26 09:02:30,162 utils.LoggerGeneretor info - Hovered On All Categories
+[INFO] 2024-11-26 09:02:35,249 utils.LoggerGeneretor info - Clicked On Electrical & Electronics
+[INFO] 2024-11-26 09:02:35,726 utils.LoggerGeneretor info - Hovered On Motors
+[INFO] 2024-11-26 09:02:38,719 utils.LoggerGeneretor info - Clicked DC Motor
+[INFO] 2024-11-26 09:02:41,718 utils.LoggerGeneretor info - Clicked DC Gear Motor
+[INFO] 2024-11-26 09:02:41,761 utils.LoggerGeneretor info - DC Gear Motor Page Found
+[INFO] 2024-11-26 12:28:32,321 utils.LoggerGeneretor info - Hovered On All Categories
+[ERROR] 2024-11-26 12:28:53,671 utils.LoggerGeneretor error - Failed to  click on Computer Products...
+[ERROR] 2024-11-26 12:29:14,858 utils.LoggerGeneretor error - Failed to Hover On Computer Section...
+[ERROR] 2024-11-26 12:29:36,065 utils.LoggerGeneretor error - Failed to Click Tablet PC...
+[ERROR] 2024-11-26 12:29:47,209 utils.LoggerGeneretor error - Tablet PC Page Not Found...
+[INFO] 2024-11-26 12:29:56,292 utils.LoggerGeneretor info - Hovered On All Categories
+[INFO] 2024-11-26 12:30:49,723 utils.LoggerGeneretor info - Hovered On All Categories
+[INFO] 2024-11-26 12:30:52,614 utils.LoggerGeneretor info - Clicked On Computer Products
+[INFO] 2024-11-26 12:30:53,031 utils.LoggerGeneretor info - Hovered On Computer Section
+[INFO] 2024-11-26 12:30:57,417 utils.LoggerGeneretor info - Clicked Tablet PC
+[INFO] 2024-11-26 12:30:57,432 utils.LoggerGeneretor info - Tablet PC Page Found
+[INFO] 2024-11-26 12:31:06,311 utils.LoggerGeneretor info - Hovered On All Categories
+[INFO] 2024-11-26 12:31:09,751 utils.LoggerGeneretor info - Clicked On Electrical & Electronics
+[INFO] 2024-11-26 12:31:10,151 utils.LoggerGeneretor info - Hovered On Motors
+[INFO] 2024-11-26 12:31:12,406 utils.LoggerGeneretor info - Clicked DC Motor
+[INFO] 2024-11-26 12:31:15,147 utils.LoggerGeneretor info - Clicked DC Gear Motor
+[INFO] 2024-11-26 12:31:15,181 utils.LoggerGeneretor info - DC Gear Motor Page Found
+[INFO] 2024-11-26 12:32:26,440 utils.LoggerGeneretor info - Hovered On All Categories
+[ERROR] 2024-11-26 12:32:48,470 utils.LoggerGeneretor error - Failed to  click on Computer Products...
+[ERROR] 2024-11-26 12:33:09,790 utils.LoggerGeneretor error - Failed to Hover On Computer Section...
+[ERROR] 2024-11-26 12:33:31,771 utils.LoggerGeneretor error - Failed to Click Tablet PC...
+[ERROR] 2024-11-26 12:33:43,616 utils.LoggerGeneretor error - Tablet PC Page Not Found...
+[INFO] 2024-11-26 12:33:50,152 utils.LoggerGeneretor info - Hovered On All Categories
+[ERROR] 2024-11-26 12:34:11,951 utils.LoggerGeneretor error - Failed to  click on Electrical & Electronics...
+[ERROR] 2024-11-26 12:34:34,575 utils.LoggerGeneretor error - Failed to Hover On Motors...
+[ERROR] 2024-11-26 12:34:56,437 utils.LoggerGeneretor error - Failed to Click DC Motor...
+[ERROR] 2024-11-26 12:35:18,307 utils.LoggerGeneretor error - Failed to Click DC Gear Motor...
+[ERROR] 2024-11-26 12:35:30,027 utils.LoggerGeneretor error - DC Gear Motor Page Not Found...
+[INFO] 2024-11-26 12:48:05,651 utils.LoggerGeneretor info - Hovered On All Categories
+[ERROR] 2024-11-26 12:48:27,200 utils.LoggerGeneretor error - Failed to  click on Computer Products...
+[INFO] 2024-11-26 12:49:14,459 utils.LoggerGeneretor info - Hovered On All Categories
+[INFO] 2024-11-26 12:49:19,978 utils.LoggerGeneretor info - Clicked On Computer Products
+[INFO] 2024-11-26 12:49:20,199 utils.LoggerGeneretor info - Hovered On Computer Section
+[INFO] 2024-11-26 12:49:22,642 utils.LoggerGeneretor info - Clicked Tablet PC
+[INFO] 2024-11-26 12:49:22,683 utils.LoggerGeneretor info - Tablet PC Page Found
+[INFO] 2024-11-26 12:49:32,540 utils.LoggerGeneretor info - Hovered On All Categories
+[INFO] 2024-11-26 12:49:35,766 utils.LoggerGeneretor info - Clicked On Electrical & Electronics
+[INFO] 2024-11-26 12:49:36,184 utils.LoggerGeneretor info - Hovered On Motors
+[INFO] 2024-11-26 12:49:38,623 utils.LoggerGeneretor info - Clicked DC Motor
+[INFO] 2024-11-26 12:49:43,024 utils.LoggerGeneretor info - Clicked DC Gear Motor
+[INFO] 2024-11-26 12:49:43,062 utils.LoggerGeneretor info - DC Gear Motor Page Found
+[INFO] 2024-11-26 12:53:33,368 utils.LoggerGeneretor info - Hovered On All Categories
+[INFO] 2024-11-26 12:53:37,420 utils.LoggerGeneretor info - Clicked On Computer Products
+[INFO] 2024-11-26 12:53:37,924 utils.LoggerGeneretor info - Hovered On Computer Section
+[INFO] 2024-11-26 12:53:41,310 utils.LoggerGeneretor info - Clicked Tablet PC
+[INFO] 2024-11-26 12:53:41,374 utils.LoggerGeneretor info - Tablet PC Page Found
+[INFO] 2024-11-26 12:53:53,673 utils.LoggerGeneretor info - Hovered On All Categories
+[INFO] 2024-11-26 12:53:58,025 utils.LoggerGeneretor info - Clicked On Electrical & Electronics
+[INFO] 2024-11-26 12:53:58,545 utils.LoggerGeneretor info - Hovered On Motors
+[INFO] 2024-11-26 12:54:03,222 utils.LoggerGeneretor info - Clicked DC Motor
+[INFO] 2024-11-26 12:54:07,979 utils.LoggerGeneretor info - Clicked DC Gear Motor
+[INFO] 2024-11-26 12:54:08,012 utils.LoggerGeneretor info - DC Gear Motor Page Found
+[INFO] 2024-11-26 12:54:57,293 utils.LoggerGeneretor info - Hovered On All Categories
+[ERROR] 2024-11-26 12:55:21,503 utils.LoggerGeneretor error - Failed to  click on Computer Products...
+[ERROR] 2024-11-26 12:55:45,663 utils.LoggerGeneretor error - Failed to Hover On Computer Section...

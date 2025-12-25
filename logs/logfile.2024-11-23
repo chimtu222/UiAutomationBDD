@@ -1,0 +1,107 @@
+[INFO] 2024-11-23 22:08:00,311 utils.LoggerGeneretor info - Hovered On Buyer
+[INFO] 2024-11-23 22:08:03,795 utils.LoggerGeneretor info - Clicked On Meet Supplier Link
+[INFO] 2024-11-23 22:08:06,815 utils.LoggerGeneretor info - Clicked On Apply to Meet Supplier Button
+[INFO] 2024-11-23 22:08:06,849 utils.LoggerGeneretor info - Clicked On Apply to Meet Supplier Button
+[INFO] 2024-11-23 22:08:15,864 utils.LoggerGeneretor info - Hovered On Buyer
+[INFO] 2024-11-23 22:08:18,695 utils.LoggerGeneretor info - Clicked On New User Guide
+[INFO] 2024-11-23 22:08:18,877 utils.LoggerGeneretor info - Clicked Start Now
+[INFO] 2024-11-23 22:08:20,224 utils.LoggerGeneretor info - Same As Main URL
+[INFO] 2024-11-23 22:08:28,828 utils.LoggerGeneretor info - Hovered On Buyer
+[INFO] 2024-11-23 22:08:30,414 utils.LoggerGeneretor info - Clicked On New User Guide
+[INFO] 2024-11-23 22:08:30,613 utils.LoggerGeneretor info - Clicked Learn More
+[INFO] 2024-11-23 22:08:32,593 utils.LoggerGeneretor info - Learn More Page Found
+[INFO] 2024-11-23 22:08:43,368 utils.LoggerGeneretor info - Clicked On Logo
+[INFO] 2024-11-23 22:08:43,820 utils.LoggerGeneretor info - Hovered On Buyer
+[INFO] 2024-11-23 22:08:46,136 utils.LoggerGeneretor info - Clicked On Contact Us
+[INFO] 2024-11-23 22:08:48,376 utils.LoggerGeneretor info - Clicked On Frequently Asked Question
+[INFO] 2024-11-23 22:08:48,431 utils.LoggerGeneretor info - Frequently Asked Question Page Found
+[INFO] 2024-11-23 22:08:55,473 utils.LoggerGeneretor info - Hovered On Buyer
+[INFO] 2024-11-23 22:08:57,307 utils.LoggerGeneretor info - Clicked On Browsing History
+[INFO] 2024-11-23 22:08:57,486 utils.LoggerGeneretor info - Clicked On Categories Keywords
+[INFO] 2024-11-23 22:08:57,676 utils.LoggerGeneretor info - Clicked On Audited Suppliers
+[INFO] 2024-11-23 22:08:57,789 utils.LoggerGeneretor info - Clicked On Product History
+[INFO] 2024-11-23 22:08:57,819 utils.LoggerGeneretor info - Product History Page Found
+[INFO] 2024-11-23 22:09:06,166 utils.LoggerGeneretor info - Hovered On Buyer
+[INFO] 2024-11-23 22:09:08,448 utils.LoggerGeneretor info - Clicked On Audited Suppliers' Reports
+[INFO] 2024-11-23 22:09:08,570 utils.LoggerGeneretor info - Footer Verified
+[INFO] 2024-11-23 22:09:08,827 utils.LoggerGeneretor info - Clicked back To top
+[INFO] 2024-11-23 22:09:08,871 utils.LoggerGeneretor info - Audited Suppliers' Reports Page Found
+[INFO] 2024-11-23 22:09:16,934 utils.LoggerGeneretor info - Hovered On All Categories
+[INFO] 2024-11-23 22:09:20,655 utils.LoggerGeneretor info - Clicked On Computer Products
+[INFO] 2024-11-23 22:09:20,958 utils.LoggerGeneretor info - Hovered On Computer Section
+[INFO] 2024-11-23 22:09:23,386 utils.LoggerGeneretor info - Clicked Tablet PC
+[INFO] 2024-11-23 22:09:23,421 utils.LoggerGeneretor info - Tablet PC Page Found
+[INFO] 2024-11-23 22:09:31,885 utils.LoggerGeneretor info - Hovered On All Categories
+[INFO] 2024-11-23 22:09:33,818 utils.LoggerGeneretor info - Clicked On Electrical & Electronics
+[INFO] 2024-11-23 22:09:34,043 utils.LoggerGeneretor info - Hovered On Motors
+[INFO] 2024-11-23 22:09:39,041 utils.LoggerGeneretor info - Clicked DC Motor
+[INFO] 2024-11-23 22:09:41,914 utils.LoggerGeneretor info - Clicked DC Gear Motor
+[INFO] 2024-11-23 22:09:41,953 utils.LoggerGeneretor info - DC Gear Motor Page Found
+[INFO] 2024-11-23 22:09:51,967 utils.LoggerGeneretor info - Hovered On Help Menu
+[INFO] 2024-11-23 22:09:55,594 utils.LoggerGeneretor info - Clicked on Submit A Complaint
+[INFO] 2024-11-23 22:09:58,799 utils.LoggerGeneretor info - Clicked On Learn More Tips Link
+[INFO] 2024-11-23 22:10:02,020 utils.LoggerGeneretor info - Clicked On Check Supplier Email Link
+[INFO] 2024-11-23 22:10:02,063 utils.LoggerGeneretor info - Supplier Email Result Page Found
+[INFO] 2024-11-23 22:10:09,339 utils.LoggerGeneretor info - Hovered On Help Menu
+[INFO] 2024-11-23 22:10:12,680 utils.LoggerGeneretor info - Clicked on Why Made in China
+[INFO] 2024-11-23 22:10:12,729 utils.LoggerGeneretor info - Scroll Down to Contact Us Page
+[INFO] 2024-11-23 22:10:12,761 utils.LoggerGeneretor info - Contact US Section Found
+[INFO] 2024-11-23 22:10:21,287 utils.LoggerGeneretor info - Clicked Search Bar
+[INFO] 2024-11-23 22:10:21,388 utils.LoggerGeneretor info - Search Element Passed to search Bar
+[INFO] 2024-11-23 22:10:25,323 utils.LoggerGeneretor info - Clicked Search Button
+[INFO] 2024-11-23 22:10:25,979 utils.LoggerGeneretor info - Clicked First Product Card
+[INFO] 2024-11-23 22:10:29,315 utils.LoggerGeneretor info - Product Details Found in Result Page
+[INFO] 2024-11-23 22:10:37,489 utils.LoggerGeneretor info - Clicked Search Bar
+[INFO] 2024-11-23 22:10:37,579 utils.LoggerGeneretor info - Search Element Passed to search Bar
+[INFO] 2024-11-23 22:10:40,261 utils.LoggerGeneretor info - Clicked Search Button
+[INFO] 2024-11-23 22:10:40,520 utils.LoggerGeneretor info - Warning for Invalid Product Text Found
+[INFO] 2024-11-23 22:10:48,799 utils.LoggerGeneretor info - Clicked Search Bar
+[INFO] 2024-11-23 22:10:48,887 utils.LoggerGeneretor info - Search Element Passed to search Bar
+[INFO] 2024-11-23 22:10:54,644 utils.LoggerGeneretor info - Clicked From Drop down Option
+[INFO] 2024-11-23 22:10:58,392 utils.LoggerGeneretor info - Clicked Smart Phone
+[INFO] 2024-11-23 22:11:06,372 utils.LoggerGeneretor info - Clicked First Product Card
+[INFO] 2024-11-23 22:11:06,619 utils.LoggerGeneretor info - Clicked Contact Supplier
+[INFO] 2024-11-23 22:11:07,799 utils.LoggerGeneretor info - Send Inquiry Found in Contact Supplier Page
+[INFO] 2024-11-23 22:11:20,927 utils.LoggerGeneretor info - Clicked On Secure Trading Services
+[INFO] 2024-11-23 22:11:22,533 utils.LoggerGeneretor info - Clicked on Buyers Guide
+[INFO] 2024-11-23 22:11:23,869 utils.LoggerGeneretor info - Clicked on Secure Trading Image
+[INFO] 2024-11-23 22:11:23,959 utils.LoggerGeneretor info - Scrolled To Refund And Return
+[INFO] 2024-11-23 22:11:24,992 utils.LoggerGeneretor info - Refund And Return Clicked
+[INFO] 2024-11-23 22:11:25,025 utils.LoggerGeneretor info - Refund And Return Rules Page Found
+[INFO] 2024-11-23 22:11:37,539 utils.LoggerGeneretor info - Clicked On Secure Trading Services
+[INFO] 2024-11-23 22:11:37,641 utils.LoggerGeneretor info - Clicked on Display and Accessories
+[INFO] 2024-11-23 22:11:37,990 utils.LoggerGeneretor info - Clicked on Display and Accessories
+[INFO] 2024-11-23 22:11:43,022 utils.LoggerGeneretor info - Clicked on First Display and Accessories Product
+[INFO] 2024-11-23 22:11:43,071 utils.LoggerGeneretor info - Product Details Found in Result Page
+[INFO] 2024-11-23 22:11:58,026 utils.LoggerGeneretor info - Clicked On Secure Trading Services
+[INFO] 2024-11-23 22:11:58,144 utils.LoggerGeneretor info - Clicked on Display and Accessories
+[INFO] 2024-11-23 22:12:01,727 utils.LoggerGeneretor info - Clicked on First Display and Accessories Product
+[INFO] 2024-11-23 22:12:02,076 utils.LoggerGeneretor info - Clicked Start Order Request
+[INFO] 2024-11-23 22:12:03,724 utils.LoggerGeneretor info - Secured Trading Service Order Page Found
+[INFO] 2024-11-23 22:12:12,615 utils.LoggerGeneretor info - Hovered On Sign in/Join
+[INFO] 2024-11-23 22:12:19,989 utils.LoggerGeneretor info - Clicked On Sign in
+[INFO] 2024-11-23 22:12:20,134 utils.LoggerGeneretor info - Clicked Sign in Button
+[INFO] 2024-11-23 22:12:20,175 utils.LoggerGeneretor info - Email Warning Present
+[INFO] 2024-11-23 22:12:20,641 utils.LoggerGeneretor info - Password Warning Present
+[INFO] 2024-11-23 22:12:21,033 utils.LoggerGeneretor info - Clicked FaceBook icon
+[INFO] 2024-11-23 22:12:28,285 utils.LoggerGeneretor info - FaceBook Log in Page Verified
+[INFO] 2024-11-23 22:12:37,019 utils.LoggerGeneretor info - Hovered On Sign in/Join
+[INFO] 2024-11-23 22:12:41,098 utils.LoggerGeneretor info - Clicked On Sign in
+[INFO] 2024-11-23 22:12:41,299 utils.LoggerGeneretor info - Clicked Sign in Button
+[INFO] 2024-11-23 22:12:41,335 utils.LoggerGeneretor info - Email Warning Present
+[INFO] 2024-11-23 22:12:41,745 utils.LoggerGeneretor info - Password Warning Present
+[INFO] 2024-11-23 22:12:43,195 utils.LoggerGeneretor info - Clicked Forgot Password
+[INFO] 2024-11-23 22:12:43,217 utils.LoggerGeneretor info - Forgot Password Page Verified
+[INFO] 2024-11-23 22:12:53,991 utils.LoggerGeneretor info - Clicked Top Ranking Products
+[INFO] 2024-11-23 22:12:59,865 utils.LoggerGeneretor info - Clicked BestSelling
+[INFO] 2024-11-23 22:13:07,743 utils.LoggerGeneretor info - Clicked First Product Card
+[INFO] 2024-11-23 22:13:07,973 utils.LoggerGeneretor info - Clicked Fav icon
+[INFO] 2024-11-23 22:13:13,177 utils.LoggerGeneretor info - Clicked Start Order Request
+[INFO] 2024-11-23 22:13:15,262 utils.LoggerGeneretor info - Clicked Submit Order
+[INFO] 2024-11-23 22:13:15,522 utils.LoggerGeneretor info - Clicked Submit Order
+[INFO] 2024-11-23 22:13:28,136 utils.LoggerGeneretor info - Clicked Top Ranking Products
+[INFO] 2024-11-23 22:13:33,962 utils.LoggerGeneretor info - Clicked New Releases
+[INFO] 2024-11-23 22:13:38,484 utils.LoggerGeneretor info - Clicked First Product Card
+[INFO] 2024-11-23 22:13:39,797 utils.LoggerGeneretor info - Clicked Add Inquiry Basket
+[INFO] 2024-11-23 22:13:42,072 utils.LoggerGeneretor info - Clicked Add Inquiry Basket icon
+[INFO] 2024-11-23 22:13:42,106 utils.LoggerGeneretor info - Found Inquiry Basket page
